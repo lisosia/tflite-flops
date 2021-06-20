@@ -1,5 +1,5 @@
 # tflite-flops
-roughly calculate fops of tflite model.
+roughly calculate flops of tflite model.
 only Conv and DepthwiseConv layers are considered for now.
 
 ### Install
